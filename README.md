@@ -4,16 +4,9 @@
 
 ## Manuals
 
-**[34420A User's Manual](docs/34420A_Users_Manual.pdf)** — 264 pages covering
-operation, programming, calibration and service, consolidated from all five
-published editions. Each Keysight edition carries less than the
-Hewlett-Packard edition before it. This one restores the specification
-chapter, the chapter on applying those specifications, and the Quick Start
-section on resistance measurement, all of which were dropped after the second
-edition; folds in the SPRT manual update that was never merged into any
-edition; and adds the performance verification, adjustment and service
-procedures from the Service Guide as chapters 9 and 10. The figures are the
-original artwork.
+**[34420A 用户手册](docs/34420A_Users_Manual.pdf)** — 共计 264 页，涵盖操作、编程、校准和维护维修。本手册汇集了所有五个已发布版本的内容。
+Keysight（是德科技）发布的每个后续版本，其内容都不如之前的 Hewlett-Packard（惠普）版本详尽。而这份合并版手册不仅恢复了在第二版之后被删去的规格参数章节、规格参数应用指南以及电阻测量的快速入门部分；还整合了一份从未被正式并入任何官方版本的 SPRT（标准铂电阻温度计）手册更新内容；同时，将《服务指南》中的性能验证、校准调整和维修程序作为第 9 章和第 10 章补充在内。
+手册中的所有插图均保留了原始版本的原貌。
 
 **[34420A Technical Service Manual](docs/34420A_Technical_Service_Manual.pdf)**
 — 86 pages covering the instrument's processor and memory system, firmware
