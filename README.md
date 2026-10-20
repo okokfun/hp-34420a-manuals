@@ -17,7 +17,7 @@ Keysight（是德科技）发布的每个后续版本，其内容都不如之前
 
 `firmware/` 包含三个主处理器 ROM 镜像（每个大小为 256 KB），用于烧录 27C020 或同等规格的芯片。
 
-| 文件 | Part number | Revision |
+| 文件 | 部件编号 | 版本 |
 |---|---|---|
 | `HP_34420a_88851_REV5.0_Fw.bin` | 34420-88851 | 5.0 |
 | `Agilent_34420-88871_REV9.0_Fw_AM27C020.bin` | 34420-88871 | 9.0 |
@@ -25,10 +25,6 @@ Keysight（是德科技）发布的每个后续版本，其内容都不如之前
 
 ---
 
-Compiled by Jared Cabot, <jetstreamtechnology@protonmail.com>, with Claude
-(Anthropic).
+由 Jared Cabot（邮箱 jetstreamtechnology@protonmail.com）与 Claude（Anthropic 公司）共同汇编。
 
-Not a publication of Hewlett-Packard, Agilent Technologies or Keysight
-Technologies, not endorsed by them, and not a substitute for the
-manufacturer's own documentation. Trade names are used for identification
-only.
+本资料并非 Hewlett-Packard（惠普）、Agilent Technologies（安捷伦科技）或 Keysight Technologies（是德科技）的官方出版物，未获得上述公司的背书，也不能替代制造商的官方文档。文中提及的商标名称仅用于身份识别。
