@@ -15,10 +15,9 @@ Keysight（是德科技）发布的每个后续版本，其内容都不如之前
 
 ## 固件
 
-`firmware/` holds the three main-processor ROM images, 256 KB each, for
-programming a 27C020 or equivalent.
+`firmware/` 包含三个主处理器 ROM 镜像（每个大小为 256 KB），用于烧录 27C020 或同等规格的芯片。
 
-| File | Part number | Revision |
+| 文件 | Part number | Revision |
 |---|---|---|
 | `HP_34420a_88851_REV5.0_Fw.bin` | 34420-88851 | 5.0 |
 | `Agilent_34420-88871_REV9.0_Fw_AM27C020.bin` | 34420-88871 | 9.0 |
