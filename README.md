@@ -1,7 +1,6 @@
 # HP / Agilent / Keysight 34420A
 
-Manuals and firmware images for the 34420A Nano Volt / Micro Ohm Meter, a
-7½-digit two-channel nanovoltmeter and micro-ohmmeter of 1994 vintage.
+34420A 纳伏表/微欧表（一款1994年推出的7½位双通道纳伏微欧表）的用户手册和固件镜像。
 
 ## Manuals
 
